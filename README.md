@@ -1,5 +1,7 @@
 ## Task Manager - Gerenciador de Tarefas em Java
 
+Descrição:
+
 Este é um simples gerenciador de tarefas feito em Java, com um menu interativo no terminal. O programa permite adicionar, listar, concluir, remover e buscar tarefas, armazenando tudo em um arquivo (tasks.txt) para que os dados não sejam perdidos ao fechar o programa.
 
 ##
