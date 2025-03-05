@@ -4,8 +4,8 @@ Este é um simples gerenciador de tarefas feito em Java, com um menu interativo 
 
 ##
 
-Linguagem usada: <img align="center" alt="Jonh-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-
+Linguagem usada: 
+<img align="center" alt="Jonh-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 ##
 
 Funcionalidades: 
