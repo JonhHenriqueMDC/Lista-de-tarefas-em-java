@@ -6,16 +6,17 @@ Este é um simples gerenciador de tarefas feito em Java, com um menu interativo 
 
 Linguagem usada: 
 <br>
+<br>
 <img align="center" alt="Jonh-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 ##
 
 Funcionalidades: 
 
-✅ Adicionar novas tarefas
-📋 Listar todas as tarefas pendentes
-✔️ Marcar tarefas como concluídas
-❌ Remover tarefas da lista
-🔍 Pesquisar tarefas por nome
+✅ Adicionar novas tarefas <br>
+📋 Listar todas as tarefas pendentes <br>
+✔️ Marcar tarefas como concluídas <br>
+❌ Remover tarefas da lista <br>
+🔍 Pesquisar tarefas por nome <br>
 
 ##
 
